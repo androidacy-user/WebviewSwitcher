@@ -12,19 +12,19 @@ OFFLINE=0
 # 0 = Just the webview (default)
 # 1 = Just the browser
 # 2 = Browser and webview
-INSTALL=0
+INSTALL=2
 
 # Choice of browser (default: 0)
 # 0 = Bromite (default)
 # 1 = Chromium
 # 2 = Ungoogled-Chromium
 # 3 = Ungoogled-Chromium with extensions support
-BROWSER=0
+BROWSER=3
 
 # Choice of Webview (default: 0)
 # 0 = Bromite (default)
 # 1 = Chromium
 # 2 = Ungoogled-Chromium
-WEBVIEW=0
+WEBVIEW=2
 
 
