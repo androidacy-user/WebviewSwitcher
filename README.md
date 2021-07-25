@@ -1,4 +1,6 @@
-# Webview Switcher - An Androidacy Project
+# REPOSITORIES ARCHIVED AND MOVED TO https://github.com/Androidacy
+
+Webview Switcher - An Androidacy Project
 
 ![Logo](https://www.androidacy.com/wp-content/uploads/rsz_cropped-adobe_post_20210202_00133408277657334196729-1024x576-1.png)
 
